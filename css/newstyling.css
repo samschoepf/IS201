@@ -1,0 +1,73 @@
+li{
+    font-size: 15px;
+}
+.common{
+    text-align: left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.header{
+    background-color: royalblue;
+    color: white;
+    height: 100px;
+    line-height: 100px;
+    font-size: x-large;
+    text-align: center;
+}
+
+.mainbody{
+    background-color: rgb(208, 208, 208);
+    
+
+}
+
+.footer{
+    background-color: royalblue;
+    color: white;
+    height: 50px;
+    line-height: 50px;
+    position: fixed; 
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+}
+
+img{
+    display: block;
+    width: 50%;
+    
+
+}
+
+nav{
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    overflow: hidden;
+    
+
+}
+
+nav a{
+    float: left;
+    color: rgb(255, 255, 255);
+    padding: 10px 13px;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: ;
+}
+
+nav a:hover{
+    background-color: rgb(215, 215, 215);
+}
+
+.wicklab{
+    color: royalblue ;
+}
+
+.resume{
+    color: black;
+}
+
